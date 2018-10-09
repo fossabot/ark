@@ -2,7 +2,8 @@
 
 **Maintainers:** [Heptio][0]
 
-[![Build Status][1]][2] <a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
+[![Build Status][1]][2] [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fking-jam%2Fark.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fking-jam%2Fark?ref=badge_shield)
+<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 
 ## Overview
 
@@ -72,3 +73,7 @@ See [the list of releases][6] to find out about feature changes.
 [30]: /docs/troubleshooting.md
 
 [99]: /docs/support-matrix.md
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fking-jam%2Fark.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fking-jam%2Fark?ref=badge_large)
